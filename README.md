@@ -59,4 +59,6 @@ On first capture, allow **Screenshot Manager** under **System Settings > Privacy
 - The installed Qwen model is text-only, so local Vision OCR supplies text for filename suggestions instead of sending screenshot images to the model.
 - Cleanup reminders are based on increases in the image count, not on app launch. The count baseline is initialized from the existing folder contents; interval boundaries are 11/21/31 for 10 and 21/41 for 20.
 - Reminder count and size cover image files in the screenshot folder, not videos in its `recordings` subfolder.
-- Requirements for this project were dictated using **Wispr Flow**. This is a note about the development workflow; Wispr Flow is not an app dependency.
+## Dictation Workflow
+
+The project instructions were dictated through a microphone using **Wispr Flow**. Approximately 4,200 words were dictated; based on the user's experience, dictation made providing the instructions about two to three times faster than typing the same amount of text. This is a personal efficiency estimate, not a measured benchmark. Wispr Flow was used to create the task instructions and is not a dependency of Screenshot Manager.
