@@ -6,9 +6,7 @@ A native macOS menu bar utility for capturing, naming, copying, and organizing s
 
 Quick walkthrough of the main features and workflow in action:
 
-![Screenshot Manager app functionality demo](app_functionality.gif)
-
-[![Screenshot Manager demo video](https://img.youtube.com/vi/POe4rvY88r8/maxresdefault.jpg)](https://youtu.be/POe4rvY88r8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/POe4rvY88r8?si=MayP8RcVY3x_zrfz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## App Screenshot
 
