@@ -8,6 +8,8 @@ Quick walkthrough of the main features and workflow in action:
 
 ![Screenshot Manager app functionality demo](app_functionality.gif)
 
+Watch the demo video: https://youtu.be/POe4rvY88r8
+
 ## App Screenshot
 
 ![Screenshot Manager menu bar](appScreenshot.png)
