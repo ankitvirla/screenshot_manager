@@ -2,6 +2,12 @@
 
 A native macOS menu bar utility for capturing, naming, copying, and organizing screenshots, plus recording the screen. Requires macOS 14 or later and Swift 6 (provided by Xcode Command Line Tools or Xcode). No third-party Swift packages are used.
 
+## App Demo
+
+Quick walkthrough of the main features and workflow in action:
+
+![Screenshot Manager app functionality demo](app_functionality.gif)
+
 ## App Screenshot
 
 ![Screenshot Manager menu bar](appScreenshot.png)
